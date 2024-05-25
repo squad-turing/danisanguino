@@ -46,7 +46,7 @@
 <h3>2006-2008 JV PLANNET</h3>
 <p>Trás terminar mis estudios y trabajar en verano tuve la suerte de entrar en prácticas remuneradas, a los 6 meses me contrataron durante este periodo de 2 años. Me sirvió para enseñarme como se trabaja en la realidad y ver como está el mercado.</p>
 <h2>Formación</h2>
-<h3>2023-2024 Máster en Software Development</h3>
+<h3>2023-2024 MÁSTER EN SOFTWARE DEVELOPMENT</h3>
 <p>Decidí hacer un parón en mi vida laboral tras muchos años trabajando en diseño gráfico y comunicación para formarme en la pogramación web y aplicaciones.</p>
 <h3>2008 CURSO COMMUNITY MANAGER</h3>
 <p>Trabajando intento estar siempre en formación por eso es el único curso homologado que pude hacer, todo el resto ha sido de forma autodidacta.</p>

@@ -21,34 +21,9 @@
 <p>Aplicación responsive que muestra todos los episodios de Rick & Morty y los personajes que aparecen en ellos. Desarrollada en React y TypeScript, con llamadas a una API externa.</p>  
 <h4><a href="https://sanicor.es" target="_blank">Sanicor website</a></h4>
 <h2>Proyecto: Diseño y Programación Web para Ortopedias Sanicor</h2>
-
-    <h3>Descripción del Proyecto</h3>
-    <p>Desarrollamos el sitio web del Grupo de Ortopedias Sanicor utilizando WordPress, creando una plataforma moderna y fácil de usar que refleja su marca y servicios.</p>
-
-    <h3>Tecnologías Utilizadas</h3>
-    <ul>
-        <li><strong>WordPress:</strong> CMS principal para una gestión de contenido robusta y flexible.</li>
-        <li><strong>Temas y Plugins Personalizados:</strong> Adaptados a las necesidades específicas de Sanicor.</li>
-        <li><strong>Diseño Responsive:</strong> Visualización óptima en todos los dispositivos.</li>
-    </ul>
-
-    <h3>Características Principales</h3>
-    <ul>
-        <li><strong>Interfaz Intuitiva:</strong> Navegación fácil y accesible.</li>
-        <li><strong>SEO Optimizado:</strong> Mejora la visibilidad en motores de búsqueda.</li>
-        <li><strong>Gestión Simplificada:</strong> Contenido fácil de actualizar.</li>
-        <li><strong>Integración Social:</strong> Conexión con redes sociales.</li>
-    </ul>
-
-    <h3>Beneficios del Proyecto</h3>
-    <ul>
-        <li><strong>Mejor Experiencia de Usuario:</strong> Aumenta la satisfacción y retención de clientes.</li>
-        <li><strong>Mayor Visibilidad:</strong> Atrae más tráfico y clientes potenciales.</li>
-        <li><strong>Facilidad de Mantenimiento:</strong> Gestión eficiente del contenido.</li>
-    </ul>
-
-    <p>Este proyecto demuestra cómo WordPress puede mejorar la presencia en línea, ayudando a Sanicor a conectar mejor con sus clientes y promover sus servicios.</p>
+<p>Optimización y desarrollo web para el grupo de ortopedias Sanicor: Implementación avanzada de diseño y programación en WordPress.</p>
 <h4><a href="https://celeriscentral.com" target="_blank">Celeris Innovación Ortoprotésica website</a></h4>
+<p>Optimización y desarrollo web para la marca de distribución ortopédica Celeris Innovación ortoprotésica: Implementación avanzada de diseño y programación en WordPress.</p>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danisanguino&show_icons=true&locale=en&layout=compact" alt="danisanguino" /></p>

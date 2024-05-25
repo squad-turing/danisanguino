@@ -17,7 +17,8 @@
 <div>
 <h3>Projects</h3>
 <h4>Episodes and characters of Rick & Morty</h4>
-https://rickmorty-drab.vercel.app/
+<h4><a href="https://rickmorty-drab.vercel.app/" target="_blank">Episodes and characters of Rick & Morty</a></h4>
+  
 <h4>Sanicor full website</h4>
 https://sanicor.es
 <h4>Celeris Innovación Ortoprotésica full website</h4>

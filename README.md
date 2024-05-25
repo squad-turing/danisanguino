@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Sanguino</h1>
+<img href="https://res.cloudinary.com/drp3zy62g/image/upload/v1716659552/sanguino-profile-github_jr6vv0.jpg"/>
 <h3 align="center">Full Stack development and Graphic Design</h3>
 
 <p align="left"> <a href="https://twitter.com/@sanguinodani" target="blank"><img src="https://img.shields.io/twitter/follow/@sanguinodani?logo=twitter&style=for-the-badge" alt="@sanguinodani" /></a> </p>

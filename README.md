@@ -19,10 +19,8 @@
 <h4>Episodes and characters of Rick & Morty</h4>
 <h4><a href="https://rickmorty-drab.vercel.app/" target="_blank">Episodes and characters of Rick & Morty</a></h4>
   
-<h4>Sanicor full website</h4>
-https://sanicor.es
-<h4>Celeris Innovación Ortoprotésica full website</h4>
-https://celeriscentral.com
+<h4><a href="https://sanicor.es" target="_blank">Sanicor website</a></h4>
+<h4><a href="https://celeriscentral.com" target="_blank">Celeris Innovación Ortoprotésica website</a></h4>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danisanguino&show_icons=true&locale=en&layout=compact" alt="danisanguino" /></p>

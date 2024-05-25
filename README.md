@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Sanguino</h1>
-<h3 align="center">Frontend development and Grapics Design</h3>
+<h3 align="center">Full Stack development and Graphic Design</h3>
 
 <p align="left"> <a href="https://twitter.com/@sanguinodani" target="blank"><img src="https://img.shields.io/twitter/follow/@sanguinodani?logo=twitter&style=for-the-badge" alt="@sanguinodani" /></a> </p>
+
+<p>Profesional con más de 15 años de experiencia en diseño gráfico y comunicación. Natural de Jerez y actualmente establecido en Sevilla, he dado un giro determinante en mi carrera adentrándome en el apasionante mundo del sector tech. Recientemente, me he especializado en desarrollo Fullstack tras completar un máster intensivo de 8 meses en Assembler Institute of Technology.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -34,7 +34,7 @@
 <h3>2023-2024 DESARROLLADOR WEB ASSEMBLER INSTITUTE</h3>
 <p>Durante 1200 horas en Assembler Institute of Technology, trabajé en proyectos reales utilizando metodologías ágiles como Kanban y Scrum. Participé en pair coding, work- shops y sesiones de live coding, lo que me permitió mejorar mis habilidades técnicas y de colaboración en un entorno laboral dinámico y real.</p>
 <h3>2016-2023 SANICOR SERVICIOS AVANZADOS</h3>
-<p>Trabajé como responsable de marketing y comunicación de esta asociación de 30 ortopedias de Andalucía. Imagen corporativa, creación de campañas y comunicación, organización de eventos, producción, estocaje, e-commerce y community manager. www.sanicorsalud.es</p>
+<p>Trabajé como responsable de marketing y comunicación de esta asociación de 30 ortopedias de Andalucía. Imagen corporativa, creación de campañas y comunicación, organización de eventos, producción, estocaje, e-commerce y community manager.</p>
 <h3>2012-2016 GRUPO GóMEZ BESER</h3>
 <p>En esta etapa es donde realmente me meto de cabeza en el mundo del marketing y comunicación, diseños corporativos, community manager, programación webs, e-commerce, creación de campañas y su posterior comunicación en redes sociales, mailings y soportes físicos como vallas, buses o periódicos y revistas. Todo ello de 5 empresas.</p>
 <h3>2011 JV PLANNET</h3>

@@ -5,7 +5,9 @@
 <p align="left"> <a href="https://twitter.com/@sanguinodani" target="blank"><img src="https://img.shields.io/twitter/follow/@sanguinodani?logo=twitter&style=for-the-badge" alt="@sanguinodani" /></a> </p>
 
 <p>Profesional con más de 15 años de experiencia en diseño gráfico y comunicación. Natural de Jerez y actualmente establecido en Sevilla, he dado un giro determinante en mi carrera adentrándome en el apasionante mundo del sector tech. Recientemente, me he especializado en desarrollo Frontend tras completar un máster intensivo de 8 meses en Assembler Institute of Technology.</p>
-
+<h3 align="left">Contact with me:</h3>
+<p>Tlf: 656 588 717</p>
+<a mailto:"danielsanguino1980@gmailo.com">danielsanguino1980@gmail.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sanguinodani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sanguinodani" height="30" width="40" /></a>

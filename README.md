@@ -10,7 +10,7 @@
 <a href="mailto:danielsanguino1980@gmail.com">danielsanguino1980@gmail.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@sanguinodani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sanguinodani" height="30" width="40" /></a>
+<a href="https://twitter.com/@sanguinodani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanguinodani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel sanguino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel sanguino" height="30" width="40" /></a>
 </p>
 

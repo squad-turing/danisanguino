@@ -24,6 +24,8 @@
 <p>Login: jonh@example.com pass: pass123</p>
 <h3><a href="https://rickmorty-drab.vercel.app/" target="_blank">Episodes and characters of Rick & Morty</a></h3>
 <p>Aplicación responsive que muestra todos los episodios de Rick & Morty y los personajes que aparecen en ellos. Desarrollada en React y TypeScript, con llamadas a una API externa.</p>  
+<h3><a href="https://calendar-squad-proyect.vercel.app/" target="_blank">Calendario mes</a></h3>
+<p>Calendario desarrollado con TypeScript, incluye funcionalidad avanzada para la creación de eventos y gestión de recordatorios.</p>  
 <h3><a href="https://sanicor.es" target="_blank">Sanicor website</a></h3>
 <p>Optimización y desarrollo web para el grupo de ortopedias Sanicor: Implementación avanzada de diseño y programación en WordPress.</p>
 <h3><a href="https://celeriscentral.com" target="_blank">Celeris Innovación Ortoprotésica website</a></h3>

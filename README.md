@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sanguinodani" target="blank"><img src="https://img.shields.io/twitter/follow/@sanguinodani?logo=twitter&style=for-the-badge" alt="@sanguinodani" /></a> </p>
 
-<p>Profesional con más de 15 años de experiencia en diseño gráfico y comunicación. Natural de Jerez y actualmente establecido en Sevilla, he dado un giro determinante en mi carrera adentrándome en el apasionante mundo del sector tech. Recientemente, me he especializado en desarrollo Frontend tras completar un máster intensivo de 8 meses en Assembler Institute of Technology.</p>
+<p>Soy un Full Stack developer con más de 15 años de experiencia en diseño gráfico y comunicación, he decidido adentrarme en el apasionante mundo del sector tech. Recientemente y he completado un máster intensivo de 8 meses en Assembler Institute of Technology, lo que me ha permitido adquirir las habili- dades necesarias para destacarme en mi actual profesión.</p>
 <h3 align="left">Contact with me:</h3>
 <a href="mailto:danielsanguino1980@gmail.com">danielsanguino1980@gmail.com</a>
 <h3 align="left">Connect with me:</h3>

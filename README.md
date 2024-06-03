@@ -1,4 +1,6 @@
-`#react` `#nextjs` `#CI` `#CD` `#vitest` `#movies` `#jenkins` `#frontend` `#typescript` `#react-testing-library` `#assembler-institute-of-technology` `#master-in-software-engineering`
+
+`#HTML` `#CSS` `#JavaScript` `#Typescript` `#GIT` `#React` `#Node.Js` `#Express.Js` `#Mongoose` `#Prisma` `#MongoDB` `#PostgreSQL` `#Next.Js` `#Jenkins` `#Vercel` `#Figma` `#Github` `#Wordpress` `#Railway` `#Netlify` `#Photoshop` `#Illustrator` `#Indesign` `#Premiere`
+
 <h1 align="center">Hi 👋, I'm Daniel Sanguino</h1>
 <img src="https://res.cloudinary.com/drp3zy62g/image/upload/v1716659552/sanguino-profile-github_jr6vv0.jpg"/>
 <h3 align="center">Full Stack Developer & Graphic Design</h3>

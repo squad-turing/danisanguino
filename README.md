@@ -1,7 +1,7 @@
 `#react` `#nextjs` `#CI` `#CD` `#vitest` `#movies` `#jenkins` `#frontend` `#typescript` `#react-testing-library` `#assembler-institute-of-technology` `#master-in-software-engineering`
 <h1 align="center">Hi 👋, I'm Daniel Sanguino</h1>
 <img src="https://res.cloudinary.com/drp3zy62g/image/upload/v1716659552/sanguino-profile-github_jr6vv0.jpg"/>
-<h3 align="center">Frontend development & Graphic Design</h3>
+<h3 align="center">Full Stack Developer & Graphic Design</h3>
 
 <p align="left"> <a href="https://twitter.com/@sanguinodani" target="blank"><img src="https://img.shields.io/twitter/follow/@sanguinodani?logo=twitter&style=for-the-badge" alt="@sanguinodani" /></a> </p>
 

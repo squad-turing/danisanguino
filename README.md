@@ -6,7 +6,6 @@
 
 <p>Profesional con más de 15 años de experiencia en diseño gráfico y comunicación. Natural de Jerez y actualmente establecido en Sevilla, he dado un giro determinante en mi carrera adentrándome en el apasionante mundo del sector tech. Recientemente, me he especializado en desarrollo Frontend tras completar un máster intensivo de 8 meses en Assembler Institute of Technology.</p>
 <h3 align="left">Contact with me:</h3>
-<p>Tlf: 656 588 717</p>
 <a href="mailto:danielsanguino1980@gmail.com">danielsanguino1980@gmail.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

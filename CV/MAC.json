@@ -400,7 +400,15 @@
           "type": "technology"
         },
         {
+          "name": "Mongoose",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
           "type": "technology"
         },
         {

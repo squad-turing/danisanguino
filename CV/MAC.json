@@ -390,6 +390,10 @@
         {
           "name": "React",
           "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
         }
       ]
     },

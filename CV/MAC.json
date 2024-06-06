@@ -427,6 +427,12 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Java",
+          "type": "technology"
+        }
       ]
     },
     "status": "searchingActively"

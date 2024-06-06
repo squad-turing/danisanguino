@@ -439,7 +439,8 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer"
+        "Backend Developer",
+        "Frontend Developer"
       ]
     },
     "status": "searchingActively"

@@ -384,6 +384,10 @@
           "type": "technology"
         },
         {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         }

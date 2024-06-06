@@ -432,6 +432,10 @@
         {
           "name": "Java",
           "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
         }
       ]
     },

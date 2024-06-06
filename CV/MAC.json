@@ -412,6 +412,10 @@
           "type": "technology"
         },
         {
+          "name": "Prisma",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },

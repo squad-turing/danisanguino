@@ -396,6 +396,10 @@
           "type": "technology"
         },
         {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
           "type": "technology"
         },

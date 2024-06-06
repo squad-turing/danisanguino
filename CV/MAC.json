@@ -378,6 +378,10 @@
         {
           "name": "Adobe Creative Suite",
           "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
         }
       ]
     },

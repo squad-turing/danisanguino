@@ -1,0 +1,402 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel",
+      "surnames": "Sanguino",
+      "title": "Full Stack Developer | HTML | CSS | JavaScript | Typescript | GIT | React | Node.Js | Express.Js | Mongoose | Prisma | MongoDB | PostgreSQL | Next.Js | Jenkins | Vercel | Figma | Adobe PackSuite",
+      "description": "Full Stack Developer con más de 15 años de experiencia en diseño gráfico y comunicación. Ahora, he decidido adentrarme en el apasionante mundo del sector tech y he completado un máster intensivo de 8 meses en Assembler Institute of Technology, lo que me ha permitido adquirir las habilidades necesarias para destacarme en mi actual profesión.\n\nMe he reinventado profesionalmente completando 1200 horas de formación en el Assembler Institute of Technology. Durante este tiempo, trabajé en proyectos del mundo real basados principalmente en React, CSS, Next.js, Vite, Prisma, MongoDB y PostgreSQL, utilizando metodologías ágiles como Kanban y Scrum. Participé en codificación en pares, talleres y sesiones de codificación en vivo, lo que mejoró mis habilidades técnicas y capacidades de colaboración en un entorno de trabajo dinámico y real.\n\nMis objetivos profesionales incluyen trabajar y aprender continuamente para mantenerme actualizado en un campo en constante evolución.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/3501ef20-3438-4a92-b359-aed2acc2d95b_linkedin-photo-63667.linkedin-photo-63667",
+        "alt": "24/06/06/3501ef20-3438-4a92-b359-aed2acc2d95b_linkedin-photo-63667.linkedin-photo-63667"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/dani-sanguino"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Assembler Institute os Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/c813f9c8-9016-4c23-8554-761166fd7ce8_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/c813f9c8-9016-4c23-8554-761166fd7ce8_linkedin-photo-63667.linkedin-photo-63667"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2023-10-01",
+            "challenges": [
+              {
+                "description": "▪ Trabajando como desarrollador Full Stack aplicando las últimas tecnologías.\n▪ Máster intensivo con más de 1200 horas de proyectos full stack orientados al mundo real basados en metodologías ágiles.\n▪ Más de 30 proyectos realizados con un profundo enfoque en la pila MERN y LAMP\n- Desarrollo de API's RESTful\n- Desarrollo de frontend : HTML, CSS , Javascript.\n- Librerías,frameworks: React, jQuery, Bootstrap, Tailwind.\n- Desarrollo backend: Javascript, SQL, MongoDB\n- Librerías,frameworks: Nodejs,Express, Mongoose, LAMPP\n- Control de versiones: Git, github.\n- Testing: jest, vitest.\n- Trabajar bajo un entorno ágil.\n- Arquitecturas de software : POO, MVC.\n\nÚltimos proyectos:\n▪ Apollofy : Diseñado y desarrollado una app de streaming de música usando React, NodeJs, ExpressJs, MongoDB, Auth0, Cloudinary, Jest, Jenkis siguiendo el patrón MVC.\n▪ MovieHub: Proyecto full stack basado en Next.js en la parte de frontend y express en backend con login de usuarios y operaciones CRUD implementando MVC y MySQL.\n▪ Ecommerce Forniture 472: Diseño y desarrollo de app para móvil y trablets de ecommerce usando React, Redux Toolkit. React hooks.\n▪ Rick & Morty: App diseñada con figma, desarrollada en vite y llamadas API."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sanicor",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/3cd403f1-6636-49be-a821-f63a07a4d4af_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/3cd403f1-6636-49be-a821-f63a07a4d4af_linkedin-photo-63667.linkedin-photo-63667"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable de marketing y Diseño Gráfico",
+            "startDate": "2016-01-01",
+            "finishDate": "2023-09-30",
+            "challenges": [
+              {
+                "description": "Responsable del departamento de marketing y diseño gráfico del mayor grupo de ortopedias de España, dar servicio a 28 centros, creación de web, mantenimiento, sanicorTV en la mayoría de los centros con programación exclusiva, diseño de papelería, impresiones, gestión de eventos, ferias y congresos, merchandising.\n\nProyectos:\n▪ Gestión integral y diseño de Stand en congreso Ortomedical Care 2016 y 2018.\n▪ Web corporativa Sanicor.\n▪ Configuración y programación brightsign (hardware reproductor de imágenes) en más de 15 centros ortopédicos.\n▪ Diseño y gestión de papelería corporativa para 28 centros.\n▪ Campañas de navidad en centros y fechas puntuales (vuelta al cole, verano, haloween).\n▪ Community manager y activación de campañas.\n▪ Diseño, gestión, producción y control de almacenaje y stock de merchandising."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gómez Beser",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/fd917896-24c6-449a-9201-ed5159bc290b_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/fd917896-24c6-449a-9201-ed5159bc290b_linkedin-photo-63667.linkedin-photo-63667"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable de marketing y Diseño Gráfico",
+            "startDate": "2012-03-01",
+            "finishDate": "2016-01-31",
+            "challenges": [
+              {
+                "description": "Responsable del departamento de marketing de este importante grupo de empresas de Jerez de la Frontera. Creación de webs, mantenimiento, tiendas online, diseño, fotografía de productos, redes sociales, gestión de eventos y merchandising."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gómez Beser",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667"
+          }
+        },
+        "roles": [
+          {
+            "name": "marketing",
+            "startDate": "2012-01-01",
+            "finishDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": "Skills: Adobe Photoshop · Marketing digital · Adobe Illustrator"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gómez Beser",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667"
+          }
+        },
+        "roles": [
+          {
+            "name": "Marketing",
+            "startDate": "2012-01-01",
+            "finishDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": "Skills: Adobe Photoshop · Marketing digital · Adobe Illustrator"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "JV Plannet"
+        },
+        "roles": [
+          {
+            "name": "Diseñador gráfico",
+            "startDate": "2010-11-01",
+            "finishDate": "2011-04-30",
+            "challenges": [
+              {
+                "description": "Diseño Gráfico en general, etiquetas de vinos, programación multimedia, diseño web, diseño de logomarcas, identidades corporativas. Packaging, cartelería, macroimpresiones."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ipunto comunicación"
+        },
+        "roles": [
+          {
+            "name": "Diseñador gráfico",
+            "startDate": "2010-03-01",
+            "finishDate": "2010-09-30",
+            "challenges": [
+              {
+                "description": "Actualizaciones y diseño web, diseño de minisites, diseño gráfico de eventos y ferias. Diseño corporativo fondos FEDER."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "99 centavos"
+        },
+        "roles": [
+          {
+            "name": "Dirección Diseño gráfico",
+            "startDate": "2008-11-01",
+            "finishDate": "2010-01-31",
+            "challenges": [
+              {
+                "description": "Programación y diseños webs, folletos, publicidad, diseño de vallas, macroimpresiones."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "JV Plannet"
+        },
+        "roles": [
+          {
+            "name": "Diseñador gráfico",
+            "startDate": "2006-09-01",
+            "finishDate": "2008-09-30",
+            "challenges": [
+              {
+                "description": "Diseño en general, etiquetas de vinos, programación multimedia, diseño web, diseño de logomarcas, identidades corporativas. Packaging, cartelería, macroimpresiones"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Canva",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netlify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prisma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Diplomado, Artes Gráficas",
+        "startDate": "2004-01-01",
+        "institution": {
+          "name": "Instituto de artes visuales"
+        },
+        "finishDate": "2006-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master in software development",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "Assembler Institute of Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/9f6a305d-dc3f-4137-bb8a-3976e3f01bd7_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/9f6a305d-dc3f-4137-bb8a-3976e3f01bd7_linkedin-photo-63667.linkedin-photo-63667"
+          }
+        },
+        "finishDate": "2024-06-30"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/dani-sanguino",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "danielsanguino1980@gmail.com"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ]
+  }
+}

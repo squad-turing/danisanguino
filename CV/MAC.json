@@ -380,6 +380,10 @@
           "type": "technology"
         },
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         }

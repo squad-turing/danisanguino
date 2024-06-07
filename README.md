@@ -23,7 +23,7 @@
 <h2>Projects</h2>
 <h3><a href="https://front-end-apollofy.netlify.app/" target="_blank">Apollofy Music App</a></h3>
 <p>Apollofy es una aplicación de reproducción de música diseñada para ofrecer una experiencia de usuario fluida y agradable. Nuestra aplicación es completamente receptiva, asegurando que puedas disfrutar de tu música favorita en cualquier dispositivo.</p> 
-<h3><a href="#" target="_blank">Aplcación para tablets y móviles tienda mueble</a></h3>
+<h3><a href="#" target="_blank">App ecommerce para tablets y móviles</a></h3>
 <p>App móvil/tablet exclusiva con React y TypeScript para una tienda de muebles. Incluye autenticación avanzada.</p> 
 <p>Login: jonh@example.com pass: pass123</p>
 <h3><a href="https://rickmorty-drab.vercel.app/" target="_blank">Episodes and characters of Rick & Morty</a></h3>

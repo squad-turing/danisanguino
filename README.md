@@ -23,6 +23,14 @@
 <h2>Projects</h2>
 <h3><a href="https://front-end-apollofy.netlify.app/" target="_blank">Apollofy Music App</a></h3>
 <p>Apollofy es una aplicación de reproducción de música diseñada para ofrecer una experiencia de usuario fluida y agradable. Nuestra aplicación es completamente receptiva, asegurando que puedas disfrutar de tu música favorita en cualquier dispositivo.</p> 
+<h3><a href="https://glittering-seahorse-f581bb.netlify.app/" target="_blank">MoviHub App</a></h3>
+<p>MovieHub es una aplicación web responsive que permite gestionar y visualizar películas de manera eficiente.
+Características Clave:
+Autenticación: Uso de Auth0 para una autenticación segura.
+Backend: Desarrollado con Node.js y Express.
+Frontend: Construido con Next.js para una experiencia rápida y SEO-friendly.
+Gestión de Contenido: CRUD completo para subir y eliminar películas.
+MovieHub ofrece una solución segura y moderna para la administración de películas.</p> 
 <h3><a href="https://ecommerce-forniture742.vercel.app/" target="_blank">App ecommerce para tablets y móviles</a></h3>
 <p>Desarrollo de aplicación exclusiva para móvil/tablet utilizando React y TypeScript para una tienda de muebles. La aplicación incluye una autenticación avanzada y se comunica con una API REST para interactuar con un JSON interno, permitiendo una gestión eficiente y dinámica de los productos y datos del usuario.</p> 
 <p>Login: jonh@example.com pass: pass123</p>

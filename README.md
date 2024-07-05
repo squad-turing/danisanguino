@@ -23,7 +23,7 @@
 <h2>Projects</h2>
 <h3><a href="https://front-end-apollofy.netlify.app/" target="_blank">Apollofy Music App</a></h3>
 <p>Apollofy es una aplicación de reproducción de música diseñada para ofrecer una experiencia de usuario fluida y agradable. Nuestra aplicación es completamente receptiva, asegurando que puedas disfrutar de tu música favorita en cualquier dispositivo.</p> 
-<h3><a href="https://glittering-seahorse-f581bb.netlify.app/" target="_blank">MoviHub App</a></h3>
+<h3><a href="https://glittering-seahorse-f581bb.netlify.app/" target="_blank">MovieHub App</a></h3>
 <p>MovieHub es una aplicación web responsive que permite gestionar y visualizar películas de manera eficiente.
 Características Clave:
 Autenticación: Uso de Auth0 para una autenticación segura.

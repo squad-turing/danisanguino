@@ -37,6 +37,8 @@ MovieHub ofrece una solución segura y moderna para la administración de pelíc
 <p>Login: jonh@example.com pass: pass123</p>
 <h3><a href="https://rickmorty-drab.vercel.app/" target="_blank">Episodes and characters of Rick & Morty</a></h3>
 <p>Aplicación responsive que muestra todos los episodios de Rick & Morty y los personajes que aparecen en ellos. Desarrollada en React y TypeScript, con llamadas a una API externa.</p>  
+<h3><a href="https://hanging-game-kappa.vercel.app/" target="_blank">Hangman Game Sports Edition</a></h3>
+<p>Juego desarrollado con react y typescript, diseño responsive.</p>
 <h3><a href="https://calendar-squad-proyect.vercel.app/" target="_blank">Calendario mes</a></h3>
 <p>Calendario desarrollado con TypeScript, incluye funcionalidad avanzada para la creación de eventos y gestión de recordatorios.</p>
 <h3><a href="https://suministrosgeriatricos.net" target="_blank">Suministros Geriátricos website</a></h3>

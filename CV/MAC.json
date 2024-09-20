@@ -42,9 +42,44 @@
           {
             "name": "Full Stack Developer",
             "startDate": "2023-10-01",
+            "finishDate": "2024-06-01",
             "challenges": [
               {
                 "description": "▪ Trabajando como desarrollador Full Stack aplicando las últimas tecnologías.\n▪ Máster intensivo con más de 1200 horas de proyectos full stack orientados al mundo real basados en metodologías ágiles.\n▪ Más de 30 proyectos realizados con un profundo enfoque en la pila MERN y LAMP\n- Desarrollo de API's RESTful\n- Desarrollo de frontend : HTML, CSS , Javascript.\n- Librerías,frameworks: React, jQuery, Bootstrap, Tailwind.\n- Desarrollo backend: Javascript, SQL, MongoDB\n- Librerías,frameworks: Nodejs,Express, Mongoose, LAMPP\n- Control de versiones: Git, github.\n- Testing: jest, vitest.\n- Trabajar bajo un entorno ágil.\n- Arquitecturas de software : POO, MVC.\n\nÚltimos proyectos:\n▪ Apollofy : Diseñado y desarrollado una app de streaming de música usando React, NodeJs, ExpressJs, MongoDB, Auth0, Cloudinary, Jest, Jenkis siguiendo el patrón MVC.\n▪ MovieHub: Proyecto full stack basado en Next.js en la parte de frontend y express en backend con login de usuarios y operaciones CRUD implementando MVC y MySQL.\n▪ Ecommerce Forniture 472: Diseño y desarrollo de app para móvil y trablets de ecommerce usando React, Redux Toolkit. React hooks.\n▪ Rick & Morty: App diseñada con figma, desarrollada en vite y llamadas API."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }

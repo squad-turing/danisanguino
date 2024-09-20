@@ -96,13 +96,13 @@
         "organization": {
           "name": "Gómez Beser",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667"
           }
         },
         "roles": [
           {
-            "name": "marketing",
+            "name": "Marketing",
             "startDate": "2012-01-01",
             "finishDate": "2013-01-01",
             "challenges": [
@@ -117,13 +117,13 @@
         "organization": {
           "name": "Gómez Beser",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667"
           }
         },
         "roles": [
           {
-            "name": "Marketing",
+            "name": "marketing",
             "startDate": "2012-01-01",
             "finishDate": "2013-01-01",
             "challenges": [

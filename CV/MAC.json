@@ -32,6 +32,57 @@
     "jobs": [
       {
         "organization": {
+          "name": "Assembler Institute of Technology"
+        },
+        "roles": [
+          {
+            "name": "FullStack Developer",
+            "startDate": "2023-10-01",
+            "finishDate": "2024-06-01",
+            "challenges": [
+              {
+                "description": "Durante 1200 horas en Assembler Institute of Technology, trabajé en proyectos reales\nutilizando metodologías ágiles como Kanban y Scrum. Tecnologías HTML | CSS | JavaS-\ncript | Typescript | GIT | React | Node.Js | Express.Js | Mongoose | Prisma | MongoDB |\nPostgreSQL | Next.Js | Jenkins | Vercel | Figma, participé en pair coding, work- shops y\nsesiones de live coding, lo que me permitió mejorar mis habilidades técnicas y de\ncolaboración en un entorno laboral dinámico y real.\nProyectos:\n- Apollofy : Diseñado y desarrollado una app de streaming de música usando React,\nNodeJs, ExpressJs, MongoDB, Auth0, Cloudinary, Jest, Jenkis siguiendo el patrón\nMVC.\n- MovieHub: Proyecto full stack basado en Next.js en la parte de frontend y express en\nbackend con login de usuarios y operaciones CRUD implementando MVC y MySQL.\n- Ecommerce Forniture 472: Diseño y desarrollo de app para móvil y trablets de ecom-\nmerce usando React, Redux Toolkit. React hooks.\n- Rick & Morty: App diseñada con figma, desarrollada en vite y llamadas API."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Assembler Institute os Technology",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/c813f9c8-9016-4c23-8554-761166fd7ce8_linkedin-photo-63667.linkedin-photo-63667",
